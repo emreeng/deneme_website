@@ -6,7 +6,7 @@
 
 <h1 style="color:blue; ">Welcome</h1>
   
-   ![QTm](https://user-images.githubusercontent.com/115560766/196667948-9152e7c5-f999-413a-b569-71318dd7dd81.gif)
+![QTm](https://user-images.githubusercontent.com/115560766/196667948-9152e7c5-f999-413a-b569-71318dd7dd81.gif)
 
 <p>I'm doing some experiments&#128513;</p>
 
@@ -14,14 +14,11 @@
 </body>
 </html>
 
-
-
-
 <html>
 <body>
  
 
-  ![ZLnU](https://user-images.githubusercontent.com/115560766/196643622-18feee5a-0b54-40fe-a23d-ebd51a9e2f91.gif)
+![ZLnU](https://user-images.githubusercontent.com/115560766/196643622-18feee5a-0b54-40fe-a23d-ebd51a9e2f91.gif)
 
 
 <h2>Log in for some crazy fun laa!</h2>
