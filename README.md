@@ -5,9 +5,6 @@
 <body>
 
 <h1 style="color:blue; ">Welcome</h1>
-  
-
-  ![QTm](https://user-images.githubusercontent.com/115560766/196667948-9152e7c5-f999-413a-b569-71318dd7dd81.gif)
 
 <p>I'm doing some experiments&#128513;</p>
 
@@ -15,12 +12,15 @@
 </body>
 </html>
 
+![QTm](https://user-images.githubusercontent.com/115560766/196670132-98ea2a2e-e99b-4e6d-addf-84e294f92b17.gif)
+
+
 <html>
 <body>
  
 
+![ZLnU](https://user-images.githubusercontent.com/115560766/196670238-76e85c1d-30af-4aba-95ef-fdf76045ffe7.gif)
 
-  ![ZLnU](https://user-images.githubusercontent.com/115560766/196643622-18feee5a-0b54-40fe-a23d-ebd51a9e2f91.gif)
 
 
 <h2>Log in for some crazy fun laa!</h2>
