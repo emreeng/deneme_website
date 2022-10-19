@@ -43,4 +43,3 @@
 
 <h1 style="color:blue; ">Bu kadar goy goy yeter işimize bakalım</h1>
 
-
