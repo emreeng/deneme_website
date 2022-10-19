@@ -19,8 +19,6 @@
 <body>
  
 
-![ZLnU](https://user-images.githubusercontent.com/115560766/196670238-76e85c1d-30af-4aba-95ef-fdf76045ffe7.gif)
-
 
 
 <h2>Log in for some crazy fun laa!</h2>
