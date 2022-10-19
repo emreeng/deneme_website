@@ -43,4 +43,17 @@
 
 <h1 style="color:blue; ">Bu kadar goy goy yeter işimize bakalım</h1>
 
+<html>
+<body>
+
+<h2>deneme</h2>
+
+<p>Bir takım denemeler:</p>
+<p><a href="https://github.com/emreeng/deneme_website/pull/1#issue-1414985648">HTML tutorial</a></p>
+
+</body>
+</html>
+
+
+
 
