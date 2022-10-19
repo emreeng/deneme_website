@@ -23,7 +23,7 @@
 
 <h2>Log in for some crazy fun laa!</h2>
 
-<form action="https://helix-software.ro/demo/simple-snake-game/"> |
+<form action="https://helix-software.ro/demo/simple-snake-game/">
   <input type="text" id="fname" name="fname" value="Abuzettin"><br>
   <label for="lname">Last name:</label><br>
   <input type="text" id="lname" name="lname" value="Haşmetli"><br><br>
