@@ -49,7 +49,7 @@
 <h2>deneme</h2>
 
 <p>Bir takım denemeler:</p>
-<p><a href="https://github.com/emreeng/deneme_website/pull/1#issue-1414985648">deneeeme</a></p>
+<p><a href="https://github.com/emreeng/deneme_website/commit/75e7255921875ef6d54054ec1480d2c5990b340b#commitcomment-87265024">deneeeme</a></p>
 
 </body>
 </html> 
