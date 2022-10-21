@@ -2,7 +2,7 @@
 <head>
 <meta charset="UTF-8">
 </head>
-<body style="background-color:powderblue;">>
+<body style="background-color:powderblue;">
   
 
   <div align="center"><h1 style="color:blue; ">Hoşgeldin</h1> </div>
