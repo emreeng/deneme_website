@@ -2,49 +2,38 @@
 <head>
 <meta charset="UTF-8">
 </head>
-<body>
+<body style="background-color:powderblue;">>
+  
 
-<h1 style="color:blue; ">Welcome</h1>
+  <div align="center"><h1 style="color:blue; ">Hoşgeldin</h1> </div>
 
-<p>I'm doing some experiments&#128513;</p>
-
+<div align="center">Bu blog da linux sistem yönetimi ve DevOps'a ilişkin kürek sallıyor olacağım </div>
+  
   
 </body>
 </html>
 
-![QTm](https://user-images.githubusercontent.com/115560766/196670132-98ea2a2e-e99b-4e6d-addf-84e294f92b17.gif)
+
+<div align="center"><img src="https://user-images.githubusercontent.com/115560766/197179129-682b1e52-0fe0-4fa2-9025-a2b2034540f9.gif" alt="resim" /></div>
+
 
 
 <html>
 <body>
- 
-
-
-
-<h2>Log in for some crazy fun laa!</h2>
-
-<form action="https://helix-software.ro/demo/simple-snake-game/">
-  <input type="text" id="fname" name="fname" value="Abuzettin"><br>
-  <label for="lname">Last name:</label><br>
-  <input type="text" id="lname" name="lname" value="Haşmetli"><br><br>
-  <input type="submit" value="Submit">
-
   
-</form> 
-
+  <div align="center"><h1 style="color:blue; ">Bir takım notlar</h1> </div>
   
-</body>
-</html>
-
+  
+<p><i>Emre Engindağ</i></p>
+  
 [![](https://img.shields.io/badge/github-blue?style=for-the-badge)](https://github.com/emreeng)
 [![](https://img.shields.io/badge/linkedin-blueviolet?style=for-the-badge)](https://www.linkedin.com/in/emre-enginda%C4%9F-4072a9218/)
+  
 
 
 
-<h1 style="color:blue; ">Bu kadar goy goy yeter işimize bakalım</h1>
 
-<html>
-<body>
+
 
  
 
