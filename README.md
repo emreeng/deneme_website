@@ -28,8 +28,8 @@
    
 
   
-[![](https://img.shields.io/badge/linkedin-blue?style=for-the-badge)](https://www.linkedin.com/in/emre-enginda%C4%9F-4072a9218/)
-[![](https://img.shields.io/badge/Github-blueviolet?style=for-the-badge)](https://hamzamohdzubair.github.io/redant/)
+  [![](https://img.shields.io/badge/linkedin-blue?style=for-the-badge)](https://www.linkedin.com/in/emre-enginda%C4%9F-4072a9218/)
+  [![](https://img.shields.io/badge/Github-blueviolet?style=for-the-badge)](https://hamzamohdzubair.github.io/redant/)
 
 <p><i>Emre Engindağ</i></p>
 
