@@ -18,10 +18,8 @@
 
 
 
-<html>
-<body>
   
-  <div align="center"><h1 style="color:blue; ">Bir takım notlar</h1> </div>
+ <div align="center"><h1 style="color:blue; ">Bir takım notlar</h1> </div>
   
   
 <p><i>Emre Engindağ</i></p>
