@@ -20,20 +20,20 @@
 
   
  <div align="center"><h1 style="color:blue; ">Bir takım notlar</h1> </div>
+ 
+ 
+<div align="center"><ul>
+<a href="https://emreeng.github.io/deneme_website/index.html" target="_blank">Bla bla kurulumu</a></li></div>
   
-  
-<p><i>Emre Engindağ</i></p>
-  
+   
 
   
 [![](https://img.shields.io/badge/linkedin-blue?style=for-the-badge)](https://www.linkedin.com/in/emre-enginda%C4%9F-4072a9218/)
 [![](https://img.shields.io/badge/Github-blueviolet?style=for-the-badge)](https://hamzamohdzubair.github.io/redant/)
 
+<p><i>Emre Engindağ</i></p>
 
-<ul>
-	<li>deneme
-		<ul>
-			<li><a href="https://emreeng.github.io/deneme_website/index.html" target="_blank">deneme</a></li>
+
 
 
 
