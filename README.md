@@ -27,8 +27,12 @@
 <p><i>Emre Engindağ</i></p>
   
 
-  [![](https://img.shields.io/badge/github-blue?style=for-the-badge)](https://github.com/emreeng)
-  [![](https://img.shields.io/badge/linkedin-blueviolet?style=for-the-badge)](https://www.linkedin.com/in/emre-enginda%C4%9F-4072a9218/)
+  
+[![](https://img.shields.io/badge/github-blue?style=for-the-badge)](https://github.com/hamzamohdzubair/redant)
+[![](https://img.shields.io/badge/book-blueviolet?style=for-the-badge)](https://hamzamohdzubair.github.io/redant/)
+[![](https://img.shields.io/badge/API-yellow?style=for-the-badge)](https://docs.rs/crate/redant/latest)
+[![](https://img.shields.io/badge/Crates.io-orange?style=for-the-badge)](https://crates.io/crates/redant)
+[![](https://img.shields.io/badge/Lib.rs-lightgrey?style=for-the-badge)](https://lib.rs/crates/redant)
   
 
 
